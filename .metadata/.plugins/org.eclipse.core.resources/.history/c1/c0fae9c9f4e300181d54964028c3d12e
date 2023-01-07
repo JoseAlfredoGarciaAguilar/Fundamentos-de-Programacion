@@ -1,0 +1,28 @@
+package Portafolio;
+
+public class AreaDeUnCuadrado {
+
+	public static void main(String[] args) {
+		int Lado = 20;
+		double Area = area(Lado);
+		System.out.println("Area = " + Area);
+		int p = perimetro(5);
+		System.out.println("Perimetro = " + p );
+		area2(5);
+	}	
+		public static double area(int lado){
+			double a;
+			a= lado * lado;
+			return a;
+		}
+		public static int perimetro(int l){
+			int p;
+			p = l+l+l+l;
+			return p;
+	}
+		public static void area2(int lado) {
+			double a;
+			a = lado * lado;
+			System.out.println("Area = "+a);	
+	}
+}

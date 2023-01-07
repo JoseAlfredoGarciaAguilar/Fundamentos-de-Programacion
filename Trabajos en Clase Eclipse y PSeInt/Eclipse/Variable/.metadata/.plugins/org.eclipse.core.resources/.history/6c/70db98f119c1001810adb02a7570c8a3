@@ -1,0 +1,34 @@
+package pro1;
+
+public class variable {
+	
+	public static void main(String[]args){
+	
+	//Conversión implícita
+	int y;
+	short a2 = 19, b2 = 5;
+	y = (int)(a2 + b2);
+	
+	long medidaMilimetros;
+	long distanciaMedia;
+	long numerosGrandes = (long)(40000.5877);
+	long numerosGrandes2 = 40000L;
+	System.out.println(numerosGrandes);
+	System.out.println(numerosGrandes2);
+	
+	float valor;
+	float valor3, valor4;
+	float valor5 = 99.9F;
+	System.out.println(valor5);
+	double valor6 = 8.5e10;
+	System.out.println(valor6);
+	
+	//Tipo Caracter
+	char datoCar;
+	char letra 'A';
+	char respuesta = 'S';
+	char carUno = 'a';
+	System.out.println("Caracter "+carUno);
+	carUno = (char)(carUno-32);
+	System.out.println("Caracter "+carUno);
+}

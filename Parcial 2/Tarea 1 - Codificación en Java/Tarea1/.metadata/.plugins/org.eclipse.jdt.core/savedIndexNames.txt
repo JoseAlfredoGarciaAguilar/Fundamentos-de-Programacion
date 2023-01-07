@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+E:\Fundamentos de Programación\Parcial 2\Tareas de la Página\Tarea 1 - Codificación en Java\Tarea1\.metadata\.plugins\org.eclipse.jdt.core

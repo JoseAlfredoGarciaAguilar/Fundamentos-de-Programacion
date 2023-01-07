@@ -1,0 +1,12 @@
+declarar y crear arreglo
+Leer datos/teclado y almacenar los objetos
+leer edad de cada persona y guardarlo
+leer sexo de cada persona
+
+for(int =  0; i < p.length;i++)
+{
+System.out.println("ingrese nombre");
+String n = lector.nextLine();
+System.out.println("ap");
+String a =
+p[i]

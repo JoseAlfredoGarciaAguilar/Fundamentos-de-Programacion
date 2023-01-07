@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Users\ADM\Videos\.metadata\.plugins\org.eclipse.jdt.core
+3166921379.index
+794945367.index
+2783034832.index
+3835658748.index

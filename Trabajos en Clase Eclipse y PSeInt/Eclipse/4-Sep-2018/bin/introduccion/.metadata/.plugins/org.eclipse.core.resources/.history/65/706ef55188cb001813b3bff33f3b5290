@@ -1,0 +1,21 @@
+package Tarea2;
+import java.util.Scanner;
+
+public class Problema8 {
+
+	public static void main(String[] args) {
+		
+	int num;
+	Scanner entrada = new Scanner(System.in);
+	System.out.println("Escribe un número: ");
+	num = entrada.nextInt();
+	
+	String resultado;
+	String resultado1;
+	resultado = num > 100 ? "El número es mayor que 100" : "El número es menor que 100";
+	resultado1 = num == 100 ? "Por lo tanto, el número es igual que 100" : "Por lo tanto, el número no es igual que 100";
+	System.out.print(resultado);
+	System.out.println(resultado1);
+	}
+	
+	}

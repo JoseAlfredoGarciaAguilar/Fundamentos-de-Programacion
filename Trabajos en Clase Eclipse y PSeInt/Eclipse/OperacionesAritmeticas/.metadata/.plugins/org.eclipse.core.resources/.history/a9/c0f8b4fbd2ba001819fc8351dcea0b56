@@ -1,0 +1,30 @@
+package Introduccion;
+
+public class OperacionesArit {
+
+	public static void main(String[] args){
+		double op1 = 50.0;
+		double op2 = 5.0;
+		double resultado;
+		//resultado = op1 + op2;
+		resultado = suma(op1,op2;)
+		mostrar(resultado);
+		System.out.println("Resultado = "+resultado);
+		//resultado = op1 - op2;
+		resultado = resta(op1,op2;)
+		//mostrar(resultado);
+		System.out.println("Resultado = "+resultado);
+		//resultado = op1 * op2;
+		resultado = multiplica(op1,op2;)
+		//mostrar(resultado);
+		System.out.println("Resultado = "+resultado);
+		//resultado = op1 / op2;
+		resultado = divide(op1,op2;)
+		//mostrar(resultado);
+		System.out.println("Resultado = "+resultado);
+	}
+	static void mostrar(double z)
+	{
+		System.out.println("Resultado = "+z);
+	}
+}

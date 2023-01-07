@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\USUARIO\Documents\Trabajos del Tec\Semestre 1\Fundamentos de Programación\Parcial 2\Tareas de la Página\Tarea 2 - Operadores y Expresiones\.metadata\.plugins\org.eclipse.jdt.core
+101253277.index

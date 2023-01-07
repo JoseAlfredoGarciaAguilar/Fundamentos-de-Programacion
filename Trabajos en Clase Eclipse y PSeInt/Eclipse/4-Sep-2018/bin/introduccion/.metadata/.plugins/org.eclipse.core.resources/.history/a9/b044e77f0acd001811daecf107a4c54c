@@ -1,0 +1,21 @@
+package Asesorías;
+import java.util.Scanner;
+
+public class PromedioConWhile {
+
+	public static void main(String[]arg){
+		int estud = 1, cali;
+		double sum  =0;
+		
+		Scanner entrada = new Scanner(System.in);
+		
+		while(estud <= 10);
+		{
+		System.err.println("Escribe la calificación del estudiante: " + estud);
+		cali = entrada.nextInt();
+		estud++;
+		sum+=cali;
+		}
+		System.out.println("El promedio del grupo de estudiantes es: " + (sum/10));
+	}
+}

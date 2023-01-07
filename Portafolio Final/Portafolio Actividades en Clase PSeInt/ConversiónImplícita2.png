@@ -1,0 +1,9 @@
+Algoritmo ConversiónImplícita2
+	Definir NumerosGrandes Como Real
+	Definir NumerosGrandes2 Como Entero
+	NumerosGrandes <- TRUNC(40000.5877)
+	NumerosGrandes2 <- 40000
+	Escribir NumerosGrandes
+	Escribir NumerosGrandes2
+FinAlgoritmo
+

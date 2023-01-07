@@ -1,0 +1,12 @@
+package Portafolio;
+
+public class ConversiónImplícita {
+
+	public static void main(String[] args) {
+		int y;
+		short a2 = 19, b2 = 5;
+		y = (int)(a2 + b2);
+
+	}
+
+}

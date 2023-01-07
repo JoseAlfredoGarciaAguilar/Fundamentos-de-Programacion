@@ -1,0 +1,11 @@
+package Tarea1;
+
+public class Problema3 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Nombre y Dirección");
+		
+		String str = new String("Nombre y Dirección");
+}
+}

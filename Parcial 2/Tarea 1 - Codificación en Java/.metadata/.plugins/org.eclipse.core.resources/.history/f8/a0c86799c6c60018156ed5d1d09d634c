@@ -1,0 +1,9 @@
+package Tarea1;
+
+public class Problema3 {
+
+	public static void main(String[] args) {
+	
+		System.out.println("Nombre: José Alfredo García Aguilar" + "Dirección: Cerro Otates #3628, Col. Buenos Aires");
+}
+}

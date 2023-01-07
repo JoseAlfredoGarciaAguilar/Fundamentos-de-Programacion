@@ -1,0 +1,28 @@
+package operadoresjava;
+import java.util.Scanner;
+public class MayorMenor  {
+
+      public static void main(String[] args) {
+        Scanner lector = new Scanner (System.in);
+        int x;
+        boolean pass=false;
+        x = lector.nextInt();
+        if (x<=100)
+        {
+          pass = true;
+        }
+        else
+        {
+        pass = false;
+        }
+        if(pass = true)
+        {
+          System.out.println("La variable es aceptable");
+        }
+        else
+        {
+          System.out.println("La variable NO es aceptable");
+        }
+      }
+
+}

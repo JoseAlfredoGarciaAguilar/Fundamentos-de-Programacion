@@ -1,0 +1,13 @@
+package Portafolio;
+
+public class ConversiónImplícita3 {
+
+	public static void main(String[] args) {
+		float valor;
+		float valor3, valor4;
+		float valor5 = 99.9F;
+		System.out.println(valor5);
+		double valor6 = 8.5e10;
+		System.out.println(valor6);
+	}
+}

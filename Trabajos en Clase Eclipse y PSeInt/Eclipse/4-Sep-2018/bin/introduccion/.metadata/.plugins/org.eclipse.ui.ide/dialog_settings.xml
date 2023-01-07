@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\Fundamentos de Programación\Actividades Eclipse y PSeInt\Eclipse\4-Sep-2018"/>
+			<item value="E:\Asesorías de Fundamentos de Programacion\Asesorías de Fundamentos de Programación"/>
+			<item value="E:\Fundamentos de Programación\Actividades Eclipse y PSeInt\Eclipse\Métodos definidos por el Usuario"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

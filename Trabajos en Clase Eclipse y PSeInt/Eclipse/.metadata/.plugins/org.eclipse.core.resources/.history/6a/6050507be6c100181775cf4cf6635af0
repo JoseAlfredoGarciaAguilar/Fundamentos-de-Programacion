@@ -1,0 +1,15 @@
+package Conversiones;
+
+public class VariablesLocales {
+
+	public static void main(String[] args) {
+		int a = 1;
+		float b;
+
+	}
+
+	public static void metodo2() {
+		int a = 0;
+		float b;
+	}
+}

@@ -1,0 +1,10 @@
+package Asesorías;
+import java.util.Scanner;
+
+public class PromedioConWhile {
+
+	public static void main(String[]arg){
+		
+	}
+}
+}

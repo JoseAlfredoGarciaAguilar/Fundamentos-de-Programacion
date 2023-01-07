@@ -1,0 +1,6 @@
+package Conversiones;
+
+public class Calor {
+	private int x, g, c; //Las variables privadas solo son vistas dentro de la clase
+	protected double gr; //Son vistas en todo el paquete y en las clases derivadas
+}

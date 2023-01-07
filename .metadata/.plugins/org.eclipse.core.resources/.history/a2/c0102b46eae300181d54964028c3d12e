@@ -1,0 +1,14 @@
+package Portafolio;
+
+public class VariablesTipoBoolean2 {
+
+	public static void main(String[] args) {
+		int y1 = 9;
+		boolean estaEnRango;
+		estaEnRango = (y1<-1) || (y1>15);
+		if (estaEnRango)
+			System.out.println("El valor "+y1+" está Rango");
+		else
+			System.out.println("El valor "+y1+" no está Rango");
+	}
+}

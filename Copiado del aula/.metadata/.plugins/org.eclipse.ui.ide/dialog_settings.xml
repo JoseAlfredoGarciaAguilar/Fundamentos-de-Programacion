@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\Trabajos Tec\Semestre 1\Fundamentos de Programación\Parcial 3\Tarea 3 - Iteraciones (Bucles)"/>
+			<item value="E:\Trabajos Tec\Semestre 1\Fundamentos de Programación\Parcial 3\Tarea 2 - Estructuras de Selección"/>
+			<item value="E:\Trabajos Tec\Semestre 1\Fundamentos de Programación\Parcial 3\Tarea 1 - Control de Flujo"/>
+			<item value="E:\Trabajos del Tec\Semestre 1\Fundamentos de Programación\Actividades Eclipse y PSeInt\Eclipse\4-Sep-2018"/>
+			<item value="E:\Trabajos del Tec\Semestre 1\Fundamentos de Programación\Parcial 3\Tareas de la Página\Tarea 4 - Bucles"/>
+			<item value="E:\Trabajos del Tec\Semestre 1\Fundamentos de Programación\Prácticas\Prácticas Eclipse"/>
+			<item value="E:\Fundamentos de Programación\Parcial 3\Examen Parcial 3"/>
+			<item value="E:\Fundamentos de Programación\Actividades Eclipse y PSeInt\Eclipse\4-Sep-2018"/>
+			<item value="E:\Fundamentos de Programación\Parcial 3\Tareas de la Página\Tarea 2 - Estructuras de Selección"/>
+			<item value="E:\Fundamentos de Programación\Actividades Eclipse y PSeInt\Eclipse"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="381" key="DIALOG_X_ORIGIN"/>
+		<item value="185" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

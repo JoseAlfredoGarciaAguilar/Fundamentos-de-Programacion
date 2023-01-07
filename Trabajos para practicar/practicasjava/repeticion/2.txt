@@ -1,0 +1,28 @@
+
+
+//programa 2 
+//Autor:jose Carlos Occhoa taboada
+package edad10;
+import java.util.Scanner;
+
+public class Edad10
+{
+    public static void main(String[] args)
+    {
+        int edad;
+        int prom;
+        int sumaedad = 0;
+        Scanner lector = new Scanner(System.in);
+        
+        
+        for (int i = 0; i <10 ; i++)
+        {
+            System.out.print("Escribe la edad de las personas: ");
+            edad = lector.nextInt();
+            sumaedad = sumaedad + edad;
+        }
+        prom = sumaedad /10;
+        System.out.println("El Promedio de la edad de las 10 personas es " + prom);
+    }
+}
+

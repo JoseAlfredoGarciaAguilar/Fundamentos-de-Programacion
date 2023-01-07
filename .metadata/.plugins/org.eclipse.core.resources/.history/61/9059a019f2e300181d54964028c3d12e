@@ -1,0 +1,11 @@
+package Portafolio;
+
+public class SumaDeDosVariables {
+
+	public static void main(String[] args) {
+		int variable1 = 0;
+		int variable2 = 0;
+		int suma = variable1 + variable2;
+		System.out.println("Resultado de la Suma + " variable1 + " + " + variable2 + "= " + suma);
+	}
+}

@@ -1,0 +1,12 @@
+package Portafolio;
+
+public class ConversiónExplícita {
+
+	public static void main(String[] args) {
+		short x;
+		int a1 = 19, b1 = 5;
+		x = (short)(a1 + b1);
+
+	}
+
+}

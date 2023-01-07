@@ -1,0 +1,10 @@
+package Tarea1;
+
+public class Problema5 {
+
+	void main() {
+
+	System.out.println("El lenguaje de programación java");
+
+}
+}

@@ -1,0 +1,14 @@
+package Tarea2;
+
+public class Problema8 {
+
+	public static void main(String[] args) {
+		int num = 0;
+		System.out.println("Escribe un número: ");
+
+		String resultado;
+		resultado = num < 100 ? "Mayor que 100" : "Menor que 100";
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+package Portafolio;
+
+public class ConversiónImplícita2 {
+
+	public static void main(String[] args) {
+		long medidaMilimetros;
+		long distanciaMedia;
+		long numerosGrandes = (long)(40000.5877);
+		long numerosGrandes2 = 40000L;
+		System.out.println(numerosGrandes);
+		System.out.println(numerosGrandes2);
+	}
+}

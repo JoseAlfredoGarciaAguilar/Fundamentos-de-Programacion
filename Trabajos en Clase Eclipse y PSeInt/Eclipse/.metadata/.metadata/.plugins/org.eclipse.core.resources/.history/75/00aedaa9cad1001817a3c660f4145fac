@@ -1,0 +1,36 @@
+package Tarea1;
+
+public class Problema4 {
+
+	public static void main(String[] args) {
+		int primera_opcion=1;
+
+		switch (primera_opcion+1)
+
+		{
+
+		case 1: System.out.println("cordero asado");
+
+			break;
+
+		case 2: System.out.println("chuleta lechal");
+
+			break;
+
+		case 3: System.out.println("chuleton");
+
+			break;
+
+		case 4: System.out.println("postre de pastel");
+
+			break;
+
+		default:
+
+			System.out.println("Buen apetito");
+
+		}
+
+	}
+
+}

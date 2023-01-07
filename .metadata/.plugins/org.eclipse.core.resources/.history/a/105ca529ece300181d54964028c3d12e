@@ -1,0 +1,22 @@
+package Portafolio;
+
+public class ElementosDeUnProgramaEnJava {
+
+	public static void main(String[] args) {
+		//ELEMENTOS DE UN PROGRAMA EN JAVA
+				//TOKENS(ELEMENTOS LEXICOS DEL PROGRAMA)
+				/*
+				 * 1.Identificadores
+				 * 2.Palabras Reservadas
+				 * 3.Literales
+				 * 4.Operadores
+				 * 5.Otros Separadores
+				 * 
+				 * 1 - Identificadores: Secuencia de caracteres, letras, digitos, subrayados(_) -  y el símbolo de pesos ($)
+				 * 2 - Válidos: Nombre_ clase, nombre_clase, var123, _variable, $a, a1, EsteEsUnNombreDeVariableValido, PI
+				 * 3 - Inválidos: nombre-clase, 1a, nombre clase, if, case, break. No aconsejable: pi
+				 * 4 - Palabras Reservadas: void, class, int, double, boolean, if, case, do, default, while
+				 * 5 - Signos de puntuación y separadores: !, %, $, &, *. ( ), - , +, { }, ', ^, |, [ ], ;, _, < >, ?, ., /, etc.
+				 */
+	}
+}

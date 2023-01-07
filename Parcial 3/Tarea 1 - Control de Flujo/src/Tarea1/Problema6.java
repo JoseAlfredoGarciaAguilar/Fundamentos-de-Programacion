@@ -1,0 +1,21 @@
+package Tarea1;
+import java.util.Scanner;
+//PROGRAMA QUE DICE SI LA NOTA ES ALTA O BAJA, DEPENDIENDO SI ES MENOR O MAYOR QUE 100
+//SI ES MENOR QUE 100, SE CONSIDERA BAJA
+//Y SI ES MAYOR QUE 100, SE CONSIDERA ALTA
+public class Problema6 {
+
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.print("Escribe la nota: ");
+		int nota = entrada.nextInt();
+		if (nota >= 100)
+		{
+			System.out.print("Es una nota ALTA");
+		}
+		else
+		{
+			System.out.print("Es una nota BAJA");
+		}
+	}
+}

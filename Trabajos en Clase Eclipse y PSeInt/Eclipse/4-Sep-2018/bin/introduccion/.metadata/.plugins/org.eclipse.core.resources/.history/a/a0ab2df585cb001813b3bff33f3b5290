@@ -1,0 +1,13 @@
+package Tarea2;
+import java.util.Scanner;
+
+public class Problema8 {
+
+	public static void main(String[] args) {
+		
+	int resultado;
+	Scanner entrada = new Scanner(System.in);
+	System.out.println("Escribe un número: ");
+	resultado = entrada.nextInt();
+	}
+}
